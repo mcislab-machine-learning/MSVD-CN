@@ -6,5 +6,3 @@ Chinese corpus for MSVD-CN dataset and code for baseline methods
   - The Chinese captions in orginial MSVD corpus is not used
 - Chinese corpus: (captions_chn.csv)
 
-code for evaluating Chinese sentences: [coco-caption-py3](https://github.com/entalent/coco-caption-py3)
-
